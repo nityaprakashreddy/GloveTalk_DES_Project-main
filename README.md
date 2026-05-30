@@ -187,4 +187,13 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-**Nitya Prakash Reddy** — [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME) · [Demo video](https://YOUR-DEMO-VIDEO-URL)
+**Nitya Prakash Reddy** — [LinkedIn]([https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME](https://www.linkedin.com/in/nitya-prakash-reddy-1038a235b/)) 
+
+**🎥 Live Demonstrations**
+
+**Real-World Validation: Live Testing with a Deaf/Mute User**
+https://github.com/user-attachments/assets/f4cfd26c-94a1-4cff-a6d5-f6ade87e2422
+
+
+**Hardware Calibration & Precision Testing Demo**
+https://github.com/user-attachments/assets/8324de01-2ae5-435d-8625-6eea26e54f34

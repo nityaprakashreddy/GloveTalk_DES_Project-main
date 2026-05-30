@@ -1,4 +1,4 @@
-# GestureTalk — Wearable ASL Gesture Recognition (Hardware Pipeline)
+# GloveTalk — Wearable ASL Gesture Recognition (Hardware Pipeline)
 
 End-to-end **embedded sensing + machine learning** stack for American Sign Language (ASL) recognition using a data-glove prototype. An Arduino streams flex-sensor bend and MPU6050 orientation data over serial; Python performs windowed inference with a **CNN + BiLSTM** model (Random Forest baseline included), optional **text-to-speech**, and bidirectional **serial write-back** for display or haptics.
 

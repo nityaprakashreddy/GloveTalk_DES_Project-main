@@ -187,7 +187,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-**Nitya Prakash Reddy** — [LinkedIn]([https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME](https://www.linkedin.com/in/nitya-prakash-reddy-1038a235b/)) 
+**Nitya Prakash Reddy** — [LinkedIn](https://www.linkedin.com/in/nitya-prakash-reddy-1038a235b/) 
 
 **🎥 Live Demonstrations**
 
